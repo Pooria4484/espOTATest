@@ -1,5 +1,0 @@
-srctype = upiptest
-type = module
-version = 0.0.1
-desc = Minimalistic file shell using native Python syntax.
-long_desc = Minimalistic file shell using native Python syntax.
