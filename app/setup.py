@@ -7,7 +7,7 @@ sys.path.append("..")
 import sdist_upip
 
 setup(name='upiptest',
-      version='0.0.2',
+      version='0.0.1',
       description='Minimalistic file shell using native Python syntax.',
       long_description='Minimalistic file shell using native Python syntax.',
       url='https://github.com/Pooria4484/espOTATest/app',
